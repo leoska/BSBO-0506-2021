@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.exe
+C:\Users\student\source\repos\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.deps.json
+C:\Users\student\source\repos\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.runtimeconfig.json
+C:\Users\student\source\repos\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.dll
+C:\Users\student\source\repos\FirstLab\FirstLab\bin\Debug\net6.0\FirstLab.pdb
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.AssemblyInfo.cs
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.dll
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\refint\FirstLab.dll
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.pdb
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\FirstLab.genruntimeconfig.cache
+C:\Users\student\source\repos\FirstLab\FirstLab\obj\Debug\net6.0\ref\FirstLab.dll
